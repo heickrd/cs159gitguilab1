@@ -21,7 +21,7 @@ public class GUIDemo extends JFrame
      */
     public GUIDemo()
     {
-        setTitle("Bigger/Smaller");
+        setTitle("Bigger/Smaller Test");
         setSize(200, 100);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         panel = new JPanel();
